@@ -1,0 +1,13 @@
+.SideImage{
+    width: 100%;
+}
+.formContainer{
+    margin-top: 40px;
+    padding: 20px;
+   box-shadow: 0 2px 14px 0 rgba(109, 33, 33, 0.1);
+}
+
+.Logo {
+    margin-top: 25px;
+    width: 248px;
+}

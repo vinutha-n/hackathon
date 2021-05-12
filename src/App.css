@@ -1,0 +1,119 @@
+.App {
+  text-align: center;
+}
+.overview {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  color: #000000;
+  height: 90vh;
+}
+.Heading{
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  letter-spacing: 5px;
+  font-weight: 900;
+  font-size: 30px;
+}
+.Header{
+  position: absolute;
+    color: #fff;
+    right: 70px;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/* 
+thead{
+  display: flex;
+  justify-content: center;
+  border: 1px solid gray;
+  background-color: #5d5f5d;
+}
+tr{
+  display: flex;
+  justify-content: center;
+  border: 1px solid gray;
+}
+td,th,tbody{
+  border: 1px solid gray;
+  width: 10em;
+} */
+
+/*
+table {
+    margin-top: 20px;
+    border: 1px solid #000000;
+    background-color: #ffffff;
+    margin-left: -6px;
+    display:block;
+     width: 50em;
+}
+
+
+tbody {
+    color: #303030;
+    letter-spacing: 0;
+    line-height: 24px;
+    text-align : center;
+    vertical-align: middle;
+    display:block;
+    
+    margin: auto;
+    
+}
+  
+
+thead{
+    padding: 15px;
+    text-align: left;
+    background-color: #5d5f5d;
+    color: white;
+    display:table;
+  }
+  
+tr {
+  display:table;
+  width:100%;
+  table-layout:fixed;
+  td {
+    border: 2px solid white;
+     width: 10em;
+}
+}
+
+*/
+

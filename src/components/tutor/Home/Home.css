@@ -1,0 +1,22 @@
+.card{
+    margin: 5% 5% 0 5%;
+    border-radius: 0;
+}
+.card {
+    background: #adb5bd;
+  }
+.card-content{
+    text-align: left;
+    padding: 5%;
+    margin: 5%;
+}
+.count{
+    font-size: 40px;
+    font-weight: 500;
+}
+.count-name{
+    font-size: 12px;
+    padding-left: 10px;
+    position: relative;
+    bottom: 4px;
+}

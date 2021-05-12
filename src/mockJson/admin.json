@@ -1,0 +1,45 @@
+  
+    [
+        {
+    "id": 1,
+    "username": "shuchi",
+    "password": "demo",
+    "email": "abel.j@utthunga.com",
+    "roles": "admin"
+},
+    {
+    "id": 2,
+    "username": "mohit.g",
+    "password": "demo123",
+    "email": "mohit.g@utthunga.com",
+    "roles": "tutor"
+},
+    {
+    "id": 3,
+    "username": "rohit.s",
+    "password": "demo123",
+    "email": "rohit.s@utthunga.com",
+    "roles": "tutor"
+},
+   {
+    "id": 4,
+    "username": "kiran.k",
+    "password": "demo123",
+    "email": "kiran.k@utthunga.com",
+    "roles": "tutor"
+},
+{
+    "id": 5,
+    "username": "ashok.a",
+    "password": "demo123",
+    "email": "ashok.a@utthunga.com",
+    "roles": "tutor"
+},
+{
+    "id": 6,
+    "username": "shucheendra.tm",
+    "password": "demo123",
+    "email": "shucheendra.tm@utthunga.com",
+    "roles": "tutor"
+}
+    ]
